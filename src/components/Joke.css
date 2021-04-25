@@ -1,0 +1,19 @@
+.joke {
+    font-size: x-large;
+    margin: auto;
+    max-width: 600px;
+    min-height: 5em;
+    max-height: fit-content;
+  }
+
+  .line {
+      margin: 12px 0;
+  }
+  
+  #delivery {
+    color: yellow;
+  }
+  
+  #setup {
+    color: red;
+  }
