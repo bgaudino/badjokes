@@ -53,7 +53,7 @@ function App() {
 
   return (
     <div className="App">
-      <h1>Bad Joke Generator</h1>
+      <h1>Dad Joke Generator</h1>
       <img src={image} alt="Joke reaction"/>
       <Joke setup={setup} delivery={delivery} />
       <button className="btn" onClick={think}>Tell me a joke</button>
